@@ -1,0 +1,15 @@
+# Assignment  2
+Name = "Syed Mohib"                 
+Father_Name = "Syed Abdul khaliq"   
+Gender = "Male"                 
+Roll_No = 875310                
+Class = "Ai and Ds"            
+GPA = 3.8                        
+Is_Enrolled = True                
+print("My Name is:", Name)
+print("My Father's Name is:", Father_Name)
+print("Gender:", Gender)
+print("Roll No:", Roll_No)
+print("Class:", Class)
+print("GPA:", GPA)
+print("Active Student Status:", Is_Enrolled)
